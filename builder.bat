@@ -1,4 +1,4 @@
 @echo off
-title Creal Builder
+title Elux Builder
 python builder.py
 pause
